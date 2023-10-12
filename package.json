@@ -1,11 +1,8 @@
 {
-	"name": "flow-os",
+	"name": "flow",
 	"version": "beta",
-	"description": "The customizable webOS.",
-	"keywords": [
-		"tomp",
-		"webos"
-	],
+	"description": "The customizable web.",
+	"keywords": [""],
 	"license": "MIT",
 	"author": "Flow Works",
 	"type": "module",
